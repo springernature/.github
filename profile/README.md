@@ -1,8 +1,10 @@
-# Springer Nature
+# Hi, we're Springer Nature!
 
 We're [Springer Nature](https://www.springernature.com/gp), the world's second largest academic publishing company.
 
 We advance discovery by publishing trusted research, supporting the development of new ideas and championing open science. We are committed to playing our part in accelerating solutions to address the world’s urgent challenges.
+
+And on top of that, we also do some pretty neat stuff in our technology teams!
 
 ## Fancy joining us?
 
@@ -14,4 +16,3 @@ We advance discovery by publishing trusted research, supporting the development 
 * **[SN Digital](https://group.springernature.com/gp/group/careers/technology/sn-digital)** builds the customer-facing products that enable our users to reach their goals more effectively.
 
 You can [find out more about our technology roles](https://group.springernature.com/gp/group/careers/technology), or about [roles across the organisation](https://careers.springernature.com).
-
