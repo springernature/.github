@@ -14,6 +14,6 @@ And on top of that, we also do some pretty neat stuff in our technology teams!
 * **Global Business Systems** is responsible for core business-critical systems and processes handling the millions of transactions supporting our customers and contributors around the globe, primarily based on SAP.
 * **IT Portfolio Operations & Delivery** keep the whole machine moving by managing financials, metrics, risks, and enterprise architecture.
 * **IT Operations** provides the global infrastructure, tools, and hardware to allow our people to deliver for our customers.
-* **[SN Digital](https://group.springernature.com/gp/group/careers/technology/sn-digital)** builds the customer-facing products that enable our users to reach their goals more effectively.
+* **SN Digital** as part of [SN Technology](https://group.springernature.com/gp/group/careers/technology) builds the customer-facing products that enable our users to reach their goals more effectively.
 
 You can [find out more about our technology roles](https://group.springernature.com/gp/group/careers/technology), or about [roles across the organisation](https://careers.springernature.com).
