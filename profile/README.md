@@ -8,7 +8,7 @@ And on top of that, we also do some pretty neat stuff in our technology teams!
 
 ## Fancy joining us?
 
-[Our technology teams](https://group.springernature.com/gp/group/careers/technology) help our research and professional customers communicate the world's most impactful science, from their bases in Berlin, Dordrecht, Heidelberg, Lisbon, London, Pune, New York, and Madrid.
+Our technology teams help our research and professional customers communicate the world's most impactful science, from their bases in Berlin, Dordrecht, Heidelberg, Lisbon, London, Pune, New York, and Madrid.
 
 * **Engineering Enablement** builds the infrastructure and tools to allow our teams to build systems efficiently; scale effortlessly; and manage running systems effectively.
 * **Global Business Systems** is responsible for core business-critical systems and processes handling the millions of transactions supporting our customers and contributors around the globe, primarily based on SAP.
@@ -16,4 +16,4 @@ And on top of that, we also do some pretty neat stuff in our technology teams!
 * **IT Operations** provides the global infrastructure, tools, and hardware to allow our people to deliver for our customers.
 * **SN Digital** as part of [SN Technology](https://group.springernature.com/gp/group/careers/technology) builds the customer-facing products that enable our users to reach their goals more effectively.
 
-You can [find out more about our technology roles](https://group.springernature.com/gp/group/careers/technology), or about [roles across the organisation](https://careers.springernature.com).
+You can [find out more about our technology roles](https://careers.springernature.com/go/Technology/5384401/), or about [roles across the organisation](https://careers.springernature.com).
